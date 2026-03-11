@@ -1,5 +1,7 @@
 # OSAI Paper Analysis Pipeline
 
+[![DOI](https://sandbox.zenodo.org/badge/1160122914.svg)](https://handle.test.datacite.org/10.5072/zenodo.469690)
+
 This project was developed as part of the **Open Science and AI course project**.
 
 It implements a reproducible pipeline for analysing scientific papers using **GROBID** and Python. The system processes research articles in PDF format and extracts structured information such as abstracts, figures and external links.
