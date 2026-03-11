@@ -1,0 +1,14 @@
+env_name/
+venv/
+__pycache__/
+*.pyc
+
+.git
+.gitignore
+
+outputs/
+data/tei/
+data/parsed/
+
+*.png
+*.csv

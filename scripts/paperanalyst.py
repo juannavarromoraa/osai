@@ -8,7 +8,10 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Configuration
-GROBID_URL = "http://localhost:8070/api/processFulltextDocument"
+GROBID_URL = os.getenv(
+    "GROBID_URL",
+    "http://localhost:8070/api/processFulltextDocument"
+)
 INPUT_DIR = "papers"
 OUTPUT_DIR = "outputs"
 TEI_DIR = os.path.join("data", "tei")
