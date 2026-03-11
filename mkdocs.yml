@@ -1,0 +1,11 @@
+site_name: OSAI Paper Analysis Pipeline
+
+nav:
+  - Home: index.md
+  - Pipeline: pipeline.md
+  - Validation: validation.md
+
+docs_dir: docs
+
+theme:
+  name: readthedocs

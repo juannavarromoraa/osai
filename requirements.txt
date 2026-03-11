@@ -17,3 +17,4 @@ six==1.17.0
 urllib3==2.6.3
 wordcloud==1.9.6
 pytest==9.0.2
+mkdocs
