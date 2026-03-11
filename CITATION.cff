@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "OSAI Paper Analysis Pipeline"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Navarro Mora"
+    given-names: "Juan"
+version: "0.1.0"
+date-released: "2026-03-11"
+license: "MIT"
+repository-code: "https://github.com/juannavarromoraa/osai.git"
+url: "https://github.com/juannavarromoraa/osai.git"
+abstract: >
+  A reproducible pipeline for analysing up to 10 open-access scientific papers
+  using GROBID and Python. The software extracts abstracts, counts figures,
+  collects links, and generates visualisations and structured outputs.
+keywords:
+  - open science
+  - reproducibility
+  - grobid
+  - text mining
+  - scientific papers
+  - python
