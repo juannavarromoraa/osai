@@ -243,8 +243,12 @@ See the `LICENSE` file for full details.
 
 ---
 
-# Citation
+# Preferred Citation
 
-If you reuse this project, please cite the repository.
+Please cite this software using the metadata provided in `CITATION.cff` and `codemeta.json`.
 
-A `CITATION.cff` file will be included to support software citation.
+# Where to Get Help
+
+For questions about the project, please open an issue in the GitHub repository.
+
+
